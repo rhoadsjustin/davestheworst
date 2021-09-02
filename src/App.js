@@ -26,7 +26,7 @@ const DATA = [
     title: "w/ JRhoads",
     data: [
       "Saints making the playoffs",
-      "Jameis more TD's than Dak",
+      "Jameis will have more TD's than Dak",
       "Bishop Sycamore is a good football team",
     ],
   },
