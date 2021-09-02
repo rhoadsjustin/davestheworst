@@ -89,7 +89,7 @@ const styles = StyleSheet.create({
     marginHorizontal: 16,
   },
   logo: {
-    height: 80,
+    height: 150,
   },
   headerTitle: {
     fontSize: 40,
@@ -105,11 +105,13 @@ const styles = StyleSheet.create({
     backgroundColor: "#rgb(255, 255, 255)",
     padding: 20,
     marginVertical: 8,
+    borderRadius: 10
   },
   header: {
     padding: 20,
     fontSize: 32,
     backgroundColor: "rgb(0, 51, 141)",
+    borderRadius: 10
   },
   title: {
     fontSize: 24,
